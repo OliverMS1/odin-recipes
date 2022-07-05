@@ -1,0 +1,23 @@
+* {
+    background-color: red;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    color:white
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  .main-title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+  }
+
