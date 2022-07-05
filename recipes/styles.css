@@ -1,0 +1,30 @@
+*{
+    background-color: rgba(233, 151, 0, 0.906);
+}
+
+
+
+.main-title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.steps,
+.ingredients,
+#ingr,
+#ste,
+#home{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
