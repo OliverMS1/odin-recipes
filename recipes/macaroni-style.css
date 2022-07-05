@@ -1,0 +1,25 @@
+.main-title,
+.desca,
+.descb,
+#ingr,
+.ingredients,
+#ste,
+.steps{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-title,
+.desca,
+.descb{
+    text-align: center;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*{
+    background-color: bisque;
+}
